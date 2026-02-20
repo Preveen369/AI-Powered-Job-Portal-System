@@ -1,5 +1,5 @@
 # 🤖 🧠 AI-Powered Job Portal (MERN Stack + Cloudinary + ML Job Prediction)
-Authors and their Github Links: Suma Sanjana-https://github.com/SumaSanjana, Mekala Varun: https://github.com/ShadowwPhoenix
+Author and their Github Link: Preveen S - https://github.com/Preveen369
 
 This project introduces an end-to-end **AI-Powered Job Portal**, developed using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) to offer a responsive and full-featured web application for seamless **job posting, user authentication, company management**, and **resume uploads via Cloudinary**. Enhancing traditional job portals, it integrates a **Flask-based Machine Learning microservice** powered by the **XGBoost algorithm**, which predicts job placement outcomes based on inputs like **CGPA, internship experience, communication skill**, and **technical skill rating**, providing real-time insights to users and enabling smarter hiring decisions.
 .
@@ -141,11 +141,3 @@ python app.py
 | POST   | `/api/register`      | Register user or company       |
 | POST   | `/predict` (Flask)   | Predict job placement using ML |
 
-
----
-
-
-
-Feel free to reach out with questions or suggestions.  
-G-Mail- varunyadav4868@gmail.com, sanjananvs812@gmail.com
-*by Shadow Phoenix*
